@@ -8,7 +8,7 @@ I am a machine learning and software engineer practitioner with experience in ed
 
 - Learning ReactJS and using it to create my portfolio website 😎
 
-<h3> 🔮 Next projects </h3>
+<h3> 🔮 Next project </h3>
 
 - Use deep learning and natural language processing to predict the prices of several cryptocurrencies
 
