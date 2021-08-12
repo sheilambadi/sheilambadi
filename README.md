@@ -29,7 +29,7 @@ I am a machine learning and software engineer practitioner with experience in ed
   ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js)
-  ![Node.js](https://img.shields.io/badge/-Express.js-ffffff?style=flat&logo=express)
+  ![Node.js](https://img.shields.io/badge/-Express.js-0A7BBB?style=flat&logo=express)
   ![React](https://img.shields.io/badge/-React-ffffff?style=flat&logo=react)
 - 🛢 &nbsp; 
   ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)
@@ -37,7 +37,7 @@ I am a machine learning and software engineer practitioner with experience in ed
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A7BBB?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-ffffff?style=flat&logo=markdown)
+  ![Markdown](https://img.shields.io/badge/-Markdown-0A7BBB?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
